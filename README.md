@@ -1,2 +1,2 @@
 # SQL examples
-this line was added
+Examples of microarrays data analysis with SQL
