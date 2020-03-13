@@ -1,4 +1,4 @@
-#Script for quick tutorial on RSQLite
+#RSQLite Tutorial 
 #https://www.datacamp.com/community/tutorials/sqlite-in-r
 #CONTINBUE IN Statements That Do Not Return Tabular Results
 #then see https://www.sqlitetutorial.net/ while you apply it on WES expression data
