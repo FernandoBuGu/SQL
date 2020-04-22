@@ -1,8 +1,7 @@
 MySQL code example.
 
-The example uses a dummy database that I created related to 
-Breast Cancer Gene Expression (BCGE). 
-The example could be used to study results consensus across methods and studies.
+The example uses a dummy database that I created related to Breast Cancer Gene Expression (BCGE). 
+A possible application is the study of results consensus across methods and researches.
 
 	- Database description can be found below.
 	- BCGE_ERDiagram.pdf: Database ER Diagram
