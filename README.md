@@ -10,6 +10,13 @@ One possible application is the study of results consensus across methods and re
 	- BCGEqueries.sql: Queries examples
 	- BCGEqueries.java: Queries examples using Java Database Connectivity (JDBC)
 	- BCGEqueries_DAO.java: Queries examples using Data Access Object (DAO) and JDBC
+	
+	Hibernate_example
+	- App.java: Using hibernate to pass java objects to MySQL and viceversa. Requires the next 3 files.
+	- Gene.java: class to create a table that can be inserted in MySQL.
+	- GeneDescription.java: class to create a table embedded within the Gene.java table.
+	- hibernate.cfg.xml: connection to the BCGE MySQL database
+	
 
 
 
