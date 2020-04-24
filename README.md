@@ -9,6 +9,7 @@ A possible application is the study of results consensus across methods and rese
 	- BCGEtables.sql:  Code to insert tables into SQL
 	- BCGEqueries.sql: Queries examples
 	- BCGEqueries.java: Queries examples using Java Database Connectivity (JDBC)
+	- BCGEqueries_DAO.java: Queries examples using Data Access Object (DAO) and JDBC
 
 
 
