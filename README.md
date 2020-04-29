@@ -22,6 +22,12 @@ One possible application is the study of results consensus across methods and re
 	- Mutation.java: class insertable as table in MySQL.
 	- Patient.java: class insertable as table in MySQL.
 	
+	Hibernate_example/lazy_eager_fetch
+	- App3.java: Two tables, DEgene and Sample are added to the BreastCancerGeneExpression database with 	    	      		OnetoMany mapping relationship between the two. Then, lazy and eager fetch is done
+	- DEgene.java: class insertable as table in MySQL.
+	- Sample.java: class insertable as table in MySQL.
+	
+	
 
 
 
