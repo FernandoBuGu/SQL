@@ -1,4 +1,4 @@
-package feBueno.HibernateExamaple;
+package feBueno.HibernateExample;
 
 import javax.persistence.Embeddable;
 
