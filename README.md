@@ -17,7 +17,7 @@ One possible application is the study of results consensus across methods and re
 	- GeneDescription.java: class to create a table embedded within the Gene.java table.
 	- hibernate.cfg.xml: connection to the BCGE MySQL database
 	
-	Hibernate_example_mapping
+	Hibernate_example/mapping
 	- App2.java: Two tables, Mutation and Patient are added to the BreastCancerGeneExpression database and a 	    	      ManytoMany mapping relationship is set between the two.
 	- Mutation.java: class insertable as table in MySQL.
 	- Patient.java: class insertable as table in MySQL.
