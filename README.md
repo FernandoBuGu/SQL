@@ -13,9 +13,14 @@ One possible application is the study of results consensus across methods and re
 	
 	Hibernate_example
 	- App.java: Using hibernate to pass java objects to MySQL and viceversa. Requires the next 3 files.
-	- Gene.java: class to create a table that can be inserted in MySQL.
+	- Gene.java: class insertable as table in MySQL.
 	- GeneDescription.java: class to create a table embedded within the Gene.java table.
 	- hibernate.cfg.xml: connection to the BCGE MySQL database
+	
+	Hibernate_example_mapping
+	- App2.java: Two tables, Mutation and Patient are added to the BreastCancerGeneExpression database and a 	    	      ManytoMany mapping relationship is set between the two.
+	- Mutation.java: class insertable as table in MySQL.
+	- Patient.java: class insertable as table in MySQL.
 	
 
 
